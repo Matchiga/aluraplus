@@ -4,31 +4,31 @@
 
 <h2> :paperclip: Tópicos </h2>
 
-* [Descrição do Desafio](#descricao-do-desafio)
+* [Descrição do Desafio](#descrição-do-desafio)
 * [Status do Desafio](#status-do-desafio)
-* [Layout da Aplicação e Acesso ao Projeto](#layout-da-aplicacao)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Layout da Aplicação](#layout-da-aplicação)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 
 
-<h2><a src="#descricao-do-desafio"> :books: Descrição do Projeto </a></h2>
+<h2><a src="#descrição-do-desafio">Descrição do Desafio</a></h2>
 
 <p>Monte a página do Alura+ com HTML & CSS e suas respectivas ferramentas, HTML Semântico, CSS Flexbox e CSS Grid. Utilizando imagens do projeto alocado no Figma.</p>
 
-<h2><a src="#status-do-desafio"> :white_check_mark: Status do Desafio </a></h2>
+<h2><a src="#status-do-desafio">Status do Desafio</a></h2>
 
 > :construction: Desafio concluído :construction:
 
 >OBS: O desafio foi cumprido e finalizado, porém ainda pode ter melhorias.
 
-<h2><a src="#layout-da-aplicacao"> Layout da Aplicação e Acesso ao Projeto </a></h2>
+<h2><a src="#layout-da-aplicacao">Layout da Aplicação</a></h2>
 
 <img scr="" alt="">
 
 - Designer sugerido: [Figma]: https://www.figma.com/file/QY3am8DGLRMLQFCohJVqUQ/Alura-Plus---Layout-(Copy)
 - Deploy: 
 
-<h2><a src="#tecnologias-utilizadas"> Técnicas e Tecnologias utilizadas </a></h2>
+<h2><a src="#tecnologias-utilizadas">Tecnologias utilizadas</a></h2>
 
 * [HTML Semântico](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element#elementos_básicos)
 * [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
