@@ -26,7 +26,7 @@
 <img scr="" alt="">
 
 - Designer sugerido: [Figma]: https://www.figma.com/file/QY3am8DGLRMLQFCohJVqUQ/Alura-Plus---Layout-(Copy)
-- Deploy: 
+- Deploy: https://alura-plus-orcin-six.vercel.app
 
 <h2><a src="#tecnologias-utilizadas">Tecnologias utilizadas</a></h2>
 
